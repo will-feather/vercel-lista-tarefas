@@ -41,7 +41,7 @@ function Home(){
 
     return (
         <div>
-            <h1>Lista de Tarefas</h1>
+            <h1>Lista de Tarefas Atual</h1>
             <form onSubmit={adicionaItem}>
                 <input 
                     id="input-entrada"
