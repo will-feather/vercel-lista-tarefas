@@ -38,7 +38,7 @@ function Home(){
     function deletaTudo(){
         setLista([]);
     }
-gi
+
     return (
         <div>
             <h1>Lista de Tarefas</h1>
