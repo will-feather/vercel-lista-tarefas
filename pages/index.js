@@ -51,7 +51,7 @@ gi
                     placeholder="Adicione uma tarefa"
                 />
                 <button className="add" type="submit">
-                    Add
+                    Add Item
                 </button>
             </form>
             <div className="listaTarefas">
