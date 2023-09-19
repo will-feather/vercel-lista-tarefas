@@ -38,7 +38,7 @@ function Home(){
     function deletaTudo(){
         setLista([]);
     }
-
+gi
     return (
         <div>
             <h1>Lista de Tarefas</h1>
@@ -51,7 +51,7 @@ function Home(){
                     placeholder="Adicione uma tarefa"
                 />
                 <button className="add" type="submit">
-                    Adicionar
+                    Add
                 </button>
             </form>
             <div className="listaTarefas">
