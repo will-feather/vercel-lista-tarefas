@@ -51,7 +51,7 @@ function Home(){
                     placeholder="Adicione uma tarefa"
                 />
                 <button className="add" type="submit">
-                    Add
+                    Adicionar
                 </button>
             </form>
             <div className="listaTarefas">
